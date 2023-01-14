@@ -1,1 +1,2 @@
 This is a Demo purposes for learning git
+Learnt branches merge revert fork and ssh-keygen

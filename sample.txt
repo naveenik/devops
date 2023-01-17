@@ -5,3 +5,4 @@ Dev bracnh added and merged to main
 Feature branch push and raise merge request to main branch
 
 Checking the revert commit
+merge conflicts

@@ -2,3 +2,5 @@ This is a Demo purposes for learning git
 Learnt branches merge revert fork and ssh-keygen
 3rd line to git diff
 Dev bracnh added and merged to main
+
+Diff log
